@@ -1,1 +1,1 @@
-# svn_internship_Alumini_mgt.github.io
+# svn_internship_Alumini_management.github.io
